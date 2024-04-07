@@ -1,1 +1,8 @@
 ./server/.env
+./server/vendor/
+
+# Python virtual environment
+venv/
+slmServer/venv/
+.venv/
+
