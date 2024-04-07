@@ -27,6 +27,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.server.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "slm",
@@ -94,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712478242469</updated>
       <workItem from="1712478244390" duration="9908000" />
-      <workItem from="1712518818592" duration="965000" />
+      <workItem from="1712518818592" duration="1227000" />
     </task>
     <servers />
   </component>

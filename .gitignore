@@ -1,5 +1,7 @@
 ./server/.env
 ./server/vendor/
+.idea
+./server/.idea
 
 # Python virtual environment
 venv/
